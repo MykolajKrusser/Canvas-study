@@ -8,3 +8,5 @@ my canvas first steps
 <a href="https://mykolajkrusser.github.io/canvas-study/lines">see online lines</a>
 <br>
 <a href="https://mykolajkrusser.github.io/canvas-study/Math.Sin">see online Math sin and cos</a>
+<br>
+<a href="https://mykolajkrusser.github.io/canvas-study/Circular-progress-bar">Circular progress bar with percents</a>
