@@ -1,5 +1,5 @@
 # canvas-study
-my canvas reserch))
+my canvas first steps
 <br>
 <a href="https://mykolajkrusser.github.io/canvas-study/animation">see online animation</a>
 <br>
