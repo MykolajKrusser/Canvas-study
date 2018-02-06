@@ -21,6 +21,6 @@ canvas.onmousemove = function (event) {
     let x = event.offsetX;
     ctx.beginPath();
     ctx.clearRect(0, 0, 500, 500);
-    ctx.arc(200, 100, Math.abs(x-200), 0, 2*pi, false);
+    ctx.arc(250, 250, Math.abs(x-200), 0, 2*pi, false);
     ctx.stroke();
 };
