@@ -9,4 +9,4 @@ my canvas first steps
 <br>
 <a href="https://mykolajkrusser.github.io/canvas-study/Math.Sin">see online Math sin and cos</a>
 <br>
-<a href="https://mykolajkrusser.github.io/canvas-study/Circular-progress-bar">Circular progress bar with percents</a>
+<a href="https://mykolajkrusser.github.io/canvas-study/Circular progress bar">see online  Circular progress bar with percents</a>
