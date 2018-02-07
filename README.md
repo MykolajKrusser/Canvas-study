@@ -10,3 +10,5 @@ my canvas first steps
 <a href="https://mykolajkrusser.github.io/canvas-study/Math.Sin">see online Math sin and cos</a>
 <br>
 <a href="https://mykolajkrusser.github.io/canvas-study/Circular progress bar">see online  Circular progress bar with percents</a>
+<br>
+<a href="https://mykolajkrusser.github.io/canvas-study/line collision">see online strange line collision</a>
